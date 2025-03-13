@@ -21,6 +21,15 @@ const { title } = Astro.props;
 		<slot />
 	</body>
 </html>
+<script>
+	// It it's not "https://" redirect to it
+	if (location.protocol !== "https:") {
+		// If it's not localhost: 
+		if(location.hostname !== "localhost") {
+			location.href = location.href.replace("http:", "https:");
+		}
+	}
+</script>
 <style is:global>
 	:root {
         --zinc-50: #FAFAFA;
