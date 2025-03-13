@@ -3,9 +3,10 @@ import Layout from "../layouts/Layout.astro";
 import Profile from "../components/Profile.astro";
 import List from "../components/List.astro";
 import Shadow from "../components/Shadow.astro";
+import dataList from "../data/user.json";
 ---
 
-<Layout title="Welcome to Astro.">
+<Layout title=`${dataList.name}`>
     <main class="container" id="container" style="overflow: hidden;">
         <Profile></Profile>
         <List></List>
