@@ -10,21 +10,21 @@
 	},
 	"links": [
 		{
-			"url": "tell:+34678987323",
+			"url": "tel:+34678987323",
 			"icon": "phone-fill",
 			"title": "mobile",
-			"description": "+34 678 987 323"
+			"description": "+34 678 987323"
 		},
 		{
 			"url": "mailto:p.rozalen@roandca.com",
 			"icon": "mail-line",
-			"title": "Email",
+			"title": "email",
 			"description": "p.rozalen@roandca.com"
 		},
 		{
 			"url": "https://roandca.com",
 			"icon": "link",
-			"title": "RO&CA",
+			"title": "website",
 			"description": "https://roandca.com"
 		}
 	]
