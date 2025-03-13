@@ -1,48 +1,31 @@
 {
-	"name": "Kelly Bowlin",
-	"profession": "Web Designer",
+	"name": "Paula A. G. Rozalen",
+	"profession": "RO&CA",
+	"org": "RO&CA",
+	"website": "https://roandca.com",
+	"social": "https://www.linkedin.com/in/idpaulagonzalezr/",
+	"location": "Madrid, Spain",
+	"vcard": {
+		"email": "p.rozalen@roandca.com"
+	},
 	"links": [
 		{
-			"url": "#",
+			"url": "tell:+34678987323",
+			"icon": "phone-fill",
+			"title": "mobile",
+			"description": "+34 678 987 323"
+		},
+		{
+			"url": "mailto:p.rozalen@roandca.com",
+			"icon": "mail-line",
+			"title": "Email",
+			"description": "p.rozalen@roandca.com"
+		},
+		{
+			"url": "https://roandca.com",
 			"icon": "link",
-			"title": "Personal Portfolio",
-			"description": "All my latest design projects"
-		},
-		{
-			"url": "#",
-			"icon": "youtube-fill",
-			"title": "Youtube Channel",
-			"description": "All my latest design projects"
-		},
-		{
-			"url": "#",
-			"icon": "shopping-bag-line",
-			"title": "Template Store",
-			"description": "Discover templates that suit you"
-		},
-		{
-			"url": "#",
-			"icon": "link",
-			"title": "Design Podcast",
-			"description": "Every Friday a new episode"
-		},
-		{
-			"url": "#",
-			"icon": "instagram-line",
-			"title": "Instagram Profile",
-			"description": "Designer lifestyle and more"
-		},
-		{
-			"url": "#",
-			"icon": "dribbble-line",
-			"title": "Dribbble Shots",
-			"description": "Know more about my work"
-		},
-		{
-			"url": "#",
-			"icon": "link",
-			"title": "Free Resources",
-			"description": "Collection of free resources"
+			"title": "RO&CA",
+			"description": "https://roandca.com"
 		}
 	]
 }
